@@ -8,6 +8,13 @@
     background-color: aliceblue;
     padding: 20px 100px;
 }
+.carousel-indicators li {
+    background: rgb(255, 222, 36);
+    border: 1px solid rgb(255, 232, 30);
+    border-radius: 5px;
+    width: 15px;
+    height: 7px;
+}
 .buy-now{
     background-color: black;
     color: white;
@@ -83,4 +90,7 @@
     padding-bottom: 100px;
     height: 300px;
     width: 1000px;
+}
+footer p{
+    text-align: center;
 }
