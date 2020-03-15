@@ -1,0 +1,86 @@
+.img-1{
+    width: 100px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-bg{
+    background-color: aliceblue;
+    padding: 20px 100px;
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.pricing{
+    color: rgb(37, 3, 146);
+}
+.see-all{
+    float: right;
+    padding-bottom: 10px;
+    color: darkorange;
+    text-decoration: underline;
+  
+}
+.fix{
+    overflow: hidden;
+} 
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px lightgrey;
+    border-radius: 20px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.cat::after{
+    content: "tegori";
+    border-bottom: 7px solid;
+    border-radius: 4px;
+    border-color: rgb(250, 164, 4);
+}
+.category{
+    margin-bottom: 100px;
+}
+.cat-1{
+    padding: 20px 50px;
+    margin-top: 150px;
+}
+.cat-1 h3{
+    padding-left: 10px;
+}
+.cat-2{
+    padding: 20px 30px;
+    margin-bottom: 30px;
+}
+.cat-2 h3{
+    padding-left: 10px;
+}
+.cat-3{
+    padding: 20px 50px;
+   
+}
+.cat-3 h3{
+    padding-left: 10px;
+    padding-top: 0%;
+}
+.contact::after{
+    content: "ontac";
+    border-bottom: 7px solid;
+    border-radius: 4px;
+    border-color: rgb(250, 123, 4);
+}
+.contacts{
+    margin-bottom: 100px;
+}
+.Newsletter{
+    background-color: rgba(226, 206, 206, 0.952);
+    padding: 50px 200px;
+    padding-bottom: 100px;
+    height: 300px;
+    width: 1000px;
+}
